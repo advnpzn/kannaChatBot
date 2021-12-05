@@ -1,4 +1,4 @@
-worker: python3 AquaDlBot.py
+worker: python3 chatbot.py
  "buildpacks": [{
 
     "url": "heroku/python"
