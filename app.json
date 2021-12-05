@@ -1,0 +1,8 @@
+{
+    "name": "KannaChan",
+    "description": "A Telegram Chat Bot",
+    "repository": "https://github.com/raveen2k3/kannaChatBot",
+    "logo": "https://i.ytimg.com/vi/oxggEO6C8BI/maxresdefault.jpg",
+    "keywords": ["telegram", "python", "bot"]
+    
+  }
