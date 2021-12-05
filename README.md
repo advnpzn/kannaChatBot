@@ -17,3 +17,5 @@ CONTACT DEV : <a href="https://t.me/raveen2003">Raveen</a>
 DEPLOY YOUR OWN BOT : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raveen2k3/kannaChatBot)
 
 IF YOU LIKE THIS SERVICE FOLLOW ME : <a href="https://github.com/raveen2003">Raveen</a>
+
+NOTE : gib star else gay
