@@ -2,7 +2,7 @@
 
 <h1 align="center">Kanna Chan</h1>
 
-<p> ➠ I Can Talk To You're bored </p>
+<p> ➠ I Can Talk To You When You're bored </p>
 <p> im using kuki-api.tk </p>
 
 DEMO
